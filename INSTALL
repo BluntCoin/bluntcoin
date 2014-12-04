@@ -1,0 +1,4 @@
+Building The BluntCoin
+See doc/readme-qt.rst for instructions on building BluntCoin-Qt.
+
+See doc/build-*.txt for instructions on building bluntcoind.
