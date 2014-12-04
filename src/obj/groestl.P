@@ -1,0 +1,4 @@
+obj/groestl.o: groestl.c /Users/nscrypto/Desktop/Blunt/src/sph_groestl.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h
+groestl.c /Users/nscrypto/Desktop/Blunt/src/sph_groestl.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :

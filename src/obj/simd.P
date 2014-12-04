@@ -1,0 +1,4 @@
+obj/simd.o: simd.c /Users/nscrypto/Desktop/Blunt/src/sph_simd.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h
+simd.c /Users/nscrypto/Desktop/Blunt/src/sph_simd.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :

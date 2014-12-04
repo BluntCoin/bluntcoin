@@ -1,0 +1,4 @@
+obj/skein.o: skein.c /Users/nscrypto/Desktop/Blunt/src/sph_skein.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h
+skein.c /Users/nscrypto/Desktop/Blunt/src/sph_skein.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :

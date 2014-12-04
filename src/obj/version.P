@@ -1,0 +1,6 @@
+obj/version.o: version.cpp /Users/nscrypto/Desktop/Blunt/src/version.h \
+  /Users/nscrypto/Desktop/Blunt/src/clientversion.h \
+  /Users/nscrypto/Desktop/Blunt/src/obj/build.h
+version.cpp /Users/nscrypto/Desktop/Blunt/src/version.h :
+  /Users/nscrypto/Desktop/Blunt/src/clientversion.h :
+  /Users/nscrypto/Desktop/Blunt/src/obj/build.h :

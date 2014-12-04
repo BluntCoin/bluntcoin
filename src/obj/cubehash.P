@@ -1,0 +1,6 @@
+obj/cubehash.o: cubehash.c \
+  /Users/nscrypto/Desktop/Blunt/src/sph_cubehash.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h
+cubehash.c :
+  /Users/nscrypto/Desktop/Blunt/src/sph_cubehash.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :

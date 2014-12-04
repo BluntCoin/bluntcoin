@@ -1,0 +1,4 @@
+obj/luffa.o: luffa.c /Users/nscrypto/Desktop/Blunt/src/sph_luffa.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h
+luffa.c /Users/nscrypto/Desktop/Blunt/src/sph_luffa.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :

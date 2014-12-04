@@ -1,0 +1,6 @@
+obj/echo.o: echo.c /Users/nscrypto/Desktop/Blunt/src/sph_echo.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h \
+  /Users/nscrypto/Desktop/Blunt/src/aes_helper.c
+echo.c /Users/nscrypto/Desktop/Blunt/src/sph_echo.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :
+  /Users/nscrypto/Desktop/Blunt/src/aes_helper.c :

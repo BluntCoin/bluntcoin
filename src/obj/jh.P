@@ -1,0 +1,4 @@
+obj/jh.o: jh.c /Users/nscrypto/Desktop/Blunt/src/sph_jh.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h
+jh.c /Users/nscrypto/Desktop/Blunt/src/sph_jh.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :

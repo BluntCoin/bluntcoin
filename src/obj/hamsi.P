@@ -1,0 +1,6 @@
+obj/hamsi.o: hamsi.c /Users/nscrypto/Desktop/Blunt/src/sph_hamsi.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h \
+  /Users/nscrypto/Desktop/Blunt/src/hamsi_helper.c
+hamsi.c /Users/nscrypto/Desktop/Blunt/src/sph_hamsi.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :
+  /Users/nscrypto/Desktop/Blunt/src/hamsi_helper.c :

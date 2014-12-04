@@ -1,0 +1,4 @@
+obj/bmw.o: bmw.c /Users/nscrypto/Desktop/Blunt/src/sph_bmw.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h
+bmw.c /Users/nscrypto/Desktop/Blunt/src/sph_bmw.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :

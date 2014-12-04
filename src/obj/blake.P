@@ -1,0 +1,4 @@
+obj/blake.o: blake.c /Users/nscrypto/Desktop/Blunt/src/sph_blake.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h
+blake.c /Users/nscrypto/Desktop/Blunt/src/sph_blake.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :

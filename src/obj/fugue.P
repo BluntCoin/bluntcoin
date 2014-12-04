@@ -1,0 +1,4 @@
+obj/fugue.o: fugue.c /Users/nscrypto/Desktop/Blunt/src/sph_fugue.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h
+fugue.c /Users/nscrypto/Desktop/Blunt/src/sph_fugue.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :

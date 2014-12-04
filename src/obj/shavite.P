@@ -1,0 +1,6 @@
+obj/shavite.o: shavite.c /Users/nscrypto/Desktop/Blunt/src/sph_shavite.h \
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h \
+  /Users/nscrypto/Desktop/Blunt/src/aes_helper.c
+shavite.c /Users/nscrypto/Desktop/Blunt/src/sph_shavite.h :
+  /Users/nscrypto/Desktop/Blunt/src/sph_types.h :
+  /Users/nscrypto/Desktop/Blunt/src/aes_helper.c :
